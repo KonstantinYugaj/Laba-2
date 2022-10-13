@@ -1,3 +1,6 @@
 [submodule "Laba-2"]
 	path = Laba-2
 	url = https://github.com/KonstantinYugaj/Laba-2
+[submodule "geometric_lib"]
+	path = geometric_lib
+	url = https://github.com/smartiqaorg/geometric_lib
